@@ -1,0 +1,29 @@
+{
+"text2img":{
+    "version": "18f1d88376233fef85e7289d65326b9ceabd3a78215a6833bfb7775792f42b79",
+    "input": {
+      "model": "proteus_v02",
+      "width": 768,
+      "height": 768,
+      "prompt": "",
+      "scheduler": "normal",
+      "num_outputs": 1,
+      "sampler_name": "euler",
+      "guidance_scale": 7.5,
+      "negative_prompt": "ugly, disfigured, low quality, blurry, nsfw",
+      "num_inference_steps": 20
+    }
+  },
+  
+ "imagecolorization": {
+    "version": "9451bfbf652b21a9bccc741e5c7046540faa5586cfa3aa45abc7dbb46151a4f7",
+    "input": {
+      "mode": "Real Gray Colorization",
+      "image": "",
+      "classes": "88"
+    }
+  }
+
+
+
+}
